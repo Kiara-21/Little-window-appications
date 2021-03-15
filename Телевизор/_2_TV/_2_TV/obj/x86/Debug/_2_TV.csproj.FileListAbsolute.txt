@@ -1,0 +1,6 @@
+/home/kiara21/Projects/_2_TV/_2_TV/bin/Debug/_2_TV.exe
+/home/kiara21/Projects/_2_TV/_2_TV/bin/Debug/_2_TV.pdb
+/home/kiara21/Projects/_2_TV/_2_TV/obj/x86/Debug/_2_TV.csprojResolveAssemblyReference.cache
+/home/kiara21/Projects/_2_TV/_2_TV/obj/x86/Debug/_2_TV.csproj.CoreCompileInputs.cache
+/home/kiara21/Projects/_2_TV/_2_TV/obj/x86/Debug/_2_TV.exe
+/home/kiara21/Projects/_2_TV/_2_TV/obj/x86/Debug/_2_TV.pdb

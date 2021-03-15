@@ -1,0 +1,6 @@
+/home/kiara21/Projects/_2_Zhal/_2_Zhal/bin/Debug/_2_Zhal.exe
+/home/kiara21/Projects/_2_Zhal/_2_Zhal/bin/Debug/_2_Zhal.pdb
+/home/kiara21/Projects/_2_Zhal/_2_Zhal/obj/x86/Debug/_2_Zhal.csprojResolveAssemblyReference.cache
+/home/kiara21/Projects/_2_Zhal/_2_Zhal/obj/x86/Debug/_2_Zhal.csproj.CoreCompileInputs.cache
+/home/kiara21/Projects/_2_Zhal/_2_Zhal/obj/x86/Debug/_2_Zhal.exe
+/home/kiara21/Projects/_2_Zhal/_2_Zhal/obj/x86/Debug/_2_Zhal.pdb

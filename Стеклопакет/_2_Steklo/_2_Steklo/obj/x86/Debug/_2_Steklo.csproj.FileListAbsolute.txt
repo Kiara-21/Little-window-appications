@@ -1,0 +1,6 @@
+/home/kiara21/Projects/_2_Steklo/_2_Steklo/bin/Debug/_2_Steklo.exe
+/home/kiara21/Projects/_2_Steklo/_2_Steklo/bin/Debug/_2_Steklo.pdb
+/home/kiara21/Projects/_2_Steklo/_2_Steklo/obj/x86/Debug/_2_Steklo.csprojResolveAssemblyReference.cache
+/home/kiara21/Projects/_2_Steklo/_2_Steklo/obj/x86/Debug/_2_Steklo.csproj.CoreCompileInputs.cache
+/home/kiara21/Projects/_2_Steklo/_2_Steklo/obj/x86/Debug/_2_Steklo.exe
+/home/kiara21/Projects/_2_Steklo/_2_Steklo/obj/x86/Debug/_2_Steklo.pdb

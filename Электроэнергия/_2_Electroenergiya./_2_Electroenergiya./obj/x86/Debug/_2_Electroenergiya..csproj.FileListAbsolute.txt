@@ -1,0 +1,6 @@
+/home/kiara21/Projects/_2_Electroenergiya./_2_Electroenergiya./bin/Debug/_2_Electroenergiya..exe
+/home/kiara21/Projects/_2_Electroenergiya./_2_Electroenergiya./bin/Debug/_2_Electroenergiya..pdb
+/home/kiara21/Projects/_2_Electroenergiya./_2_Electroenergiya./obj/x86/Debug/_2_Electroenergiya..csprojResolveAssemblyReference.cache
+/home/kiara21/Projects/_2_Electroenergiya./_2_Electroenergiya./obj/x86/Debug/_2_Electroenergiya..csproj.CoreCompileInputs.cache
+/home/kiara21/Projects/_2_Electroenergiya./_2_Electroenergiya./obj/x86/Debug/_2_Electroenergiya..exe
+/home/kiara21/Projects/_2_Electroenergiya./_2_Electroenergiya./obj/x86/Debug/_2_Electroenergiya..pdb

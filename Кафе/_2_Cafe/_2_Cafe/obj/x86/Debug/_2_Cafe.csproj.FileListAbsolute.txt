@@ -1,0 +1,6 @@
+/home/kiara21/Projects/_2_Cafe/_2_Cafe/bin/Debug/_2_Cafe.exe
+/home/kiara21/Projects/_2_Cafe/_2_Cafe/bin/Debug/_2_Cafe.pdb
+/home/kiara21/Projects/_2_Cafe/_2_Cafe/obj/x86/Debug/_2_Cafe.csprojResolveAssemblyReference.cache
+/home/kiara21/Projects/_2_Cafe/_2_Cafe/obj/x86/Debug/_2_Cafe.csproj.CoreCompileInputs.cache
+/home/kiara21/Projects/_2_Cafe/_2_Cafe/obj/x86/Debug/_2_Cafe.exe
+/home/kiara21/Projects/_2_Cafe/_2_Cafe/obj/x86/Debug/_2_Cafe.pdb

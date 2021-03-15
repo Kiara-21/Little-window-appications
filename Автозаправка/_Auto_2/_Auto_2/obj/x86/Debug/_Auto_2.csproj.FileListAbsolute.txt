@@ -1,0 +1,6 @@
+/home/kiara21/Projects/_Auto_2/_Auto_2/bin/Debug/_Auto_2.exe
+/home/kiara21/Projects/_Auto_2/_Auto_2/bin/Debug/_Auto_2.pdb
+/home/kiara21/Projects/_Auto_2/_Auto_2/obj/x86/Debug/_Auto_2.csprojResolveAssemblyReference.cache
+/home/kiara21/Projects/_Auto_2/_Auto_2/obj/x86/Debug/_Auto_2.csproj.CoreCompileInputs.cache
+/home/kiara21/Projects/_Auto_2/_Auto_2/obj/x86/Debug/_Auto_2.exe
+/home/kiara21/Projects/_Auto_2/_Auto_2/obj/x86/Debug/_Auto_2.pdb
